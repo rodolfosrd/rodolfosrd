@@ -7,7 +7,7 @@ My name is Rodolfo and i am a student of IG Systems.
 ## VAMOS UG!!
 ## Redes Sociales
 
-| RED | Enlace |
+| ._.  | Enlace |
 | ------ | ------ |
 | Instagram | https://www.instagram.com/conza_yunior/|
 | GitHub    | https://github.com/rodolfosrd          |
