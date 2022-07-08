@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 
 # Hello Coders
 
@@ -21,4 +18,4 @@ my name is rodolfo and i am a student of IG systems.
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
--->
+
