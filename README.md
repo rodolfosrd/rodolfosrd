@@ -4,7 +4,7 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 My name is Rodolfo and i am a student of IG Systems.
-## VAMOS UG!!
+## Bienvenido!!
 ## Redes Sociales
 
 | ._.  | Enlace |
